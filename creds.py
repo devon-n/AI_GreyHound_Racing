@@ -1,0 +1,5 @@
+SSOID = 'iJuBaVBemt2L74sF++ettBTpaZr0zc0dWIlkWhC2wnc='
+Live_Appkey = 'XHBCMxK2I51nNYwh'
+Dev_Appkey = 'fuH22DcjPaUQnVjH'
+username = 'devnathan94@gmail.com'
+password = 'Millions987!'
